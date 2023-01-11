@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Energy_type_button.qml</file>
+        <file>Text_input_bar.qml</file>
+        <file>Energy_type_button_row.qml</file>
+        <file>Save_data_button.qml</file>
+        <file>Output_area.qml</file>
+        <file>Title_text.qml</file>
+        <file>Energy_chart_base.qml</file>
+        <file>Currently_showing_box.qml</file>
+        <file>Window_bar_menu.qml</file>
+        <file>New_data_load_popup.qml</file>
+        <file>Calendar_model.qml</file>
+        <file>Date_input.qml</file>
+        <file>Time_input.qml</file>
+        <file>Fetch_data_button.qml</file>
+        <file>Wind_chart_base.qml</file>
+        <file>Program_status_bar.qml</file>
+        <file>Preferences_button.qml</file>
+        <file>Preferences.qml</file>
+        <file>File_dialog.qml</file>
+        <file>Save_file_dialog.qml</file>
+        <file>Save_file_popup.qml</file>
+        <file>About_popup.qml</file>
+        <file>images/calendar.png</file>
+        <file>images/plug.png</file>
+        <file>images/draw_chart.png</file>
+        <file>Radio_buttons.qml</file>
+    </qresource>
+</RCC>
