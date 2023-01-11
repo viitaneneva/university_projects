@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/myfiles">
+        <file>purplegem.png</file>
+    </qresource>
+</RCC>
